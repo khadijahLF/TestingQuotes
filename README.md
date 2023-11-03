@@ -4,3 +4,5 @@ Welcome to the Quote Website! This readme file provides an overview of the websi
 1. Features
 2. Getting Started
 3. Usage
+### Features
+![Alt Text](images/q.png)
