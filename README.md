@@ -1,0 +1,1 @@
+# Lighthoouse Quotes
